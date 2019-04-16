@@ -1,4 +1,4 @@
-
+//Fighting!!
 class Calculator {
 
 	power(num, po) {
