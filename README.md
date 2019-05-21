@@ -1,8 +1,14 @@
-# algorithm-solutions
+# Algorithm Solutions
+<br/>
 
-## hackerrank
+## Hackerrank
+
+### [Hackerrank](/Hackerrank)
 - [10Days of Javascript](/Hackerrank/10Days%20of%20Javascript)
-- [30Days](/tree/master/Hackerrank/30Days)
+- [30Days](/Hackerrank/30Days)
 
+<br/>
 
-## programmers
+## Programmers
+### [Programmers](/Programmers)
+- [Level1](/Programmers/Level1)
