@@ -4,9 +4,9 @@
 ## [Hackerrank](/Hackerrank)
 
 ### [10Days of Javascript](/Hackerrank/10Days%20of%20Javascript)
+- [Day 0: Data Types](/Hackerrank/10Days%20of%20Javascript/Day%200:%20Data%20Types.js)
 
 ### [30Days](/Hackerrank/30Days)
-
 <br/>
 
 ## [Programmers](/Programmers)
