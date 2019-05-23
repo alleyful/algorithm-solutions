@@ -5,6 +5,7 @@
 
 ### [10Days of Javascript](/Hackerrank/10Days%20of%20Javascript)
 - [Day 0: Data Types](/Hackerrank/10Days%20of%20Javascript/Day%200:%20Data%20Types.js)
+- [Day 1: Arithmetic Operators](/Hackerrank/10Days%20of%20Javascript/Day%201:%20Arithmetic%20Operators.js)
 
 ### [30Days](/Hackerrank/30Days)
 <br/>
