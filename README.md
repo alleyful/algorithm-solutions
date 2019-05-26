@@ -26,4 +26,5 @@
 - [문자열 내 마음대로 정렬하기](/Programmers/Level1/문자열%20내%20마음대로%20정렬하기.md)
 - [문자열 내 p와 y의 개수](/Programmers/Level1/문자열%20내%20p와%20y의%20개수.md)
 - [문자열 내림차순으로 배치하기](/Programmers/Level1/문자열%20내림차순으로%20배치하기.md)
+- [문자열 다루기 기본](/Programmers/Level1/문자열%20다루기%20기본.md)
 
