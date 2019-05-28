@@ -28,4 +28,5 @@
 - [문자열 내림차순으로 배치하기](/Programmers/Level1/문자열%20내림차순으로%20배치하기.md)
 - [문자열 다루기 기본](/Programmers/Level1/문자열%20다루기%20기본.md)
 - [서울에서 김서방 찾기](/Programmers/Level1/서울에서%20김서방%20찾기.md)
+- [소수 찾기](/Programmers/Level1/소수%20찾기.md)
 
