@@ -30,4 +30,5 @@
 - [서울에서 김서방 찾기](/Programmers/Level1/서울에서%20김서방%20찾기.md)
 - [소수 찾기](/Programmers/Level1/소수%20찾기.md)
 - [수박수박수박수박수박수?](/Programmers/Level1/수박수박수박수박.md)
-
+- [문자열을 정수로 바꾸기](/Programmers/Level1/문자열을%20정수로%20바꾸기.md)
+- [시저 암호](/Programmers/Level1/시저%20암호.md)
