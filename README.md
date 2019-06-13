@@ -44,3 +44,4 @@
 - [콜라츠 추측](/Programmers/Level1/콜라츠%20추측.md)
 - [평균 구하기](/Programmers/Level1/평균%20구하기.md)
 - [하샤드 수](/Programmers/Level1/하샤드%20수.md)
+- [핸드폰 번호 가리기](/Programmers/Level1/핸드폰%20번호%20가리기.md)
