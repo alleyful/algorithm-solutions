@@ -34,7 +34,7 @@ Print the elements of array **A** in reverse order as a single line of space-sep
 ```
 
 
-##Sample Output
+## Sample Output
 
 ```
 2 3 4 1
@@ -45,7 +45,6 @@ Print the elements of array **A** in reverse order as a single line of space-sep
 
 ---
 
-## Solutions
 
 ### Solution 1
 
