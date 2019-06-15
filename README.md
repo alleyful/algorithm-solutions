@@ -1,9 +1,9 @@
 # Algorithm Solutions
 <br/>
 
-## [Hackerrank](/Hackerrank)
+## [Hackerrank](/HackerRank)
 
-### [10Days of Javascript](/Hackerrank/10DaysOfJavascript)
+### [10Days of Javascript](/HackerRank/10DaysOfJavascript)
 - [Day 0: Data Types](/HackerRank/10DaysOfJavascript/Day0_DataTypes.md)
 - [Day 0: Hello, World](/HackerRank/10DaysOfJavascript/Day0_HelloWorld.md)
 - [Day 1: Arithmetic Operators](/HackerRank/10DaysOfJavascript/Day1_ArithmeticOperators.md)
@@ -30,7 +30,7 @@
 
 <br/>
 
-### [30Days of Code](/Hackerrank/30DaysOfCode)
+### [30Days of Code](/HackerRank/30DaysOfCode)
 
 - [Day 0: Hello World](/HackerRank/30DaysOfCode/Day0_HelloWorld.md)
 - [Day 1: Data Types](/HackerRank/30DaysOfCode/Day1_DataTypes.md)
