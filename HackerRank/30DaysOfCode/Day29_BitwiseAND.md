@@ -52,7 +52,7 @@ All possible values of  and  are:
 2. ![](https://latex.codecogs.com/svg.latex?A&space;=&space;3,&space;B&space;=&space;5;&space;A\&B&space;=&space;1)
 2. ![](https://latex.codecogs.com/svg.latex?A&space;=&space;4,&space;B&space;=&space;5;&space;A\&B&space;=&space;4)
 
-The maximum possible value of ![](https://latex.codecogs.com/svg.latex?A\&B) that is also < (K = 2) is 1, so we print 1 on a new line.
+The maximum possible value of A&B that is also < (K = 2) is 1, so we print 1 on a new line.
 
 ---
 
