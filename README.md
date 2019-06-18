@@ -102,3 +102,4 @@
 - [행렬의 덧셈](Programmers/Level1/행렬의%20덧셈.md)
 - [x만큼 간격이 있는 n개의 숫자](Programmers/Level1/x만큼%20간격이%20있는%20n개의%20숫자.md)
 - [직사각형 별찍기](Programmers/Level1/직사각형%20별찍기.md)
+- [예산](Programmers/Level1/예산.md)
