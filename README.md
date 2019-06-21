@@ -87,7 +87,7 @@
 - [문자열을 정수로 바꾸기](/Programmers/Level1/문자열을%20정수로%20바꾸기.md)
 - [시저 암호](/Programmers/Level1/시저%20암호.md)
 - [약수의 합](/Programmers/Level1/약수의%20합.md)
-- [이상항 문자 만들](/Programmers/Level1/이상한%20문자%20만들기.md)
+- [이상한 문자 만들기](/Programmers/Level1/이상한%20문자%20만들기.md)
 - [자릿수 더하기](/Programmers/Level1/자릿수%20더하기.md)
 - [자연수 뒤집어 배열로 만들기](/Programmers/Level1/자연수%20뒤집어%20배열로%20만들기.md)
 - [정수 내림차순으로 배치하기](/Programmers/Level1/정수%20내림차순으로%20배치하기.md)
