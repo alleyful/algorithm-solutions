@@ -64,6 +64,12 @@
 
 <br/>
 
+### [ProblemSolving](HackerRank/ProblemSolving)
+
+- [00_SolveMeFirst](HackerRank/ProblemSolving/00_SolveMeFirst.md)
+
+<br/>
+
 ## [Programmers](/Programmers)
 
 ### [Level1](/Programmers/Level1)
