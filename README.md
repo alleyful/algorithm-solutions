@@ -67,6 +67,7 @@
 ### [ProblemSolving](HackerRank/ProblemSolving)
 
 - [00_SolveMeFirst](HackerRank/ProblemSolving/00_SolveMeFirst.md)
+- [01_SimpleArraySum](HackerRank/ProblemSolving/01_SimpleArraySum.md)
 
 <br/>
 
