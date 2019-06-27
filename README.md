@@ -68,7 +68,7 @@
 
 - [00_SolveMeFirst](HackerRank/ProblemSolving/00_SolveMeFirst.md)
 - [01_SimpleArraySum](HackerRank/ProblemSolving/01_SimpleArraySum.md)
-- [02_ComparetheTriplets](HackerRank/ProblemSolving/02_ComparetheTriplets.md)
+- [02_CompareTheTriplets](HackerRank/ProblemSolving/02_CompareTheTriplets.md)
 
 <br/>
 
