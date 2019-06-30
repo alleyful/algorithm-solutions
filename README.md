@@ -70,6 +70,7 @@
 - [01_SimpleArraySum](HackerRank/ProblemSolving/01_SimpleArraySum.md)
 - [02_CompareTheTriplets](HackerRank/ProblemSolving/02_CompareTheTriplets.md)
 - [03_AVeryBigSum](HackerRank/ProblemSolving/03_AVeryBigSum.md)
+- [04_DiagonalDifference](HackerRank/ProblemSolving/04_DiagonalDifference.md)
 
 <br/>
 
