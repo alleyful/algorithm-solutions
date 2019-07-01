@@ -71,6 +71,7 @@
 - [02_CompareTheTriplets](HackerRank/ProblemSolving/02_CompareTheTriplets.md)
 - [03_AVeryBigSum](HackerRank/ProblemSolving/03_AVeryBigSum.md)
 - [04_DiagonalDifference](HackerRank/ProblemSolving/04_DiagonalDifference.md)
+- [05_PlusMinus](HackerRank/ProblemSolving/05_PlusMinus.md)
 
 <br/>
 
