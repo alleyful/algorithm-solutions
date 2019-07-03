@@ -121,3 +121,4 @@
 - [쇠막대기](/Programmers/Level2/쇠막대기.md)
 - [스킬트리](/Programmers/Level2/스킬트리.md)
 - [탑](/Programmers/Level2/탑.md)
+- [124 나라의 숫자](/Programmers/Level2/124나라의숫자.md)
