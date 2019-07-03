@@ -72,6 +72,7 @@
 - [03_AVeryBigSum](HackerRank/ProblemSolving/03_AVeryBigSum.md)
 - [04_DiagonalDifference](HackerRank/ProblemSolving/04_DiagonalDifference.md)
 - [05_PlusMinus](HackerRank/ProblemSolving/05_PlusMinus.md)
+- [06_Staircase](HackerRank/ProblemSolving/06_Staircase.md)
 
 <br/>
 
