@@ -73,6 +73,7 @@
 - [04_DiagonalDifference](HackerRank/ProblemSolving/04_DiagonalDifference.md)
 - [05_PlusMinus](HackerRank/ProblemSolving/05_PlusMinus.md)
 - [06_Staircase](HackerRank/ProblemSolving/06_Staircase.md)
+- [07_Mini-MaxSum](HackerRank/ProblemSolving/07_Mini-MaxSum.md)
 
 <br/>
 
