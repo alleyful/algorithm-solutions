@@ -8,7 +8,7 @@ For example, if your niece is turning `4` years old, and the cake will have `4` 
 <br/>
 <!-- more -->
 
-##Function Description
+## Function Description
 
 Complete the function birthdayCakeCandles in the editor below. It must return an integer representing the number of candles she can blow out.
 
