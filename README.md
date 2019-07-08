@@ -126,3 +126,4 @@
 - [탑](/Programmers/Level2/탑.md)
 - [124 나라의 숫자](/Programmers/Level2/124나라의숫자.md)
 - [기능개발](/Programmers/Level2/기능개발.md)
+- [다리를 지나는 트럭](/Programmers/Level2/다리를_지나는_트럭.md)
