@@ -75,6 +75,7 @@
 - [06_Staircase](HackerRank/ProblemSolving/06_Staircase.md)
 - [07_Mini-MaxSum](HackerRank/ProblemSolving/07_Mini-MaxSum.md)
 - [08_BirthdayCakeCandles](HackerRank/ProblemSolving/08_BirthdayCakeCandles.md)
+- [09_Time Conversion](HackerRank/ProblemSolving/09_TimeConversion.md)
 
 <br/>
 
