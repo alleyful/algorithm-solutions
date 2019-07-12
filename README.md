@@ -77,7 +77,7 @@
 - [08_BirthdayCakeCandles](HackerRank/ProblemSolving/08_BirthdayCakeCandles.md)
 - [09_Time Conversion](HackerRank/ProblemSolving/09_TimeConversion.md)
 - [10_GradingStudents](HackerRank/ProblemSolving/10_GradingStudents.md)
-- [11_AppleAndOrange.md](HackerRank/ProblemSolving/11_AppleAndOrange.md.md)
+- [11_AppleAndOrange.md](HackerRank/ProblemSolving/11_AppleAndOrange.md)
 
 <br/>
 
