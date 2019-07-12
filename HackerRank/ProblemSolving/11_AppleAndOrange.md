@@ -46,6 +46,11 @@ The fifth line contains **n** space-separated integers denoting the respective d
 <br/>
 
 ## Constraints
+- ![](https://latex.codecogs.com/gif.latex?1\leq&space;s,&space;t,&space;a,&space;b,&space;m,&space;n\leq&space;10^{5})
+- ![](https://latex.codecogs.com/gif.latex?-10^{5}\leq&space;d\leq&space;10^{5})
+- ![](https://latex.codecogs.com/gif.latex?a<&space;s<&space;t<&space;b)
+
+<br/>
 
 ## Output Format
 
