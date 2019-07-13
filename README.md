@@ -78,6 +78,7 @@
 - [09_Time Conversion](HackerRank/ProblemSolving/09_TimeConversion.md)
 - [10_GradingStudents](HackerRank/ProblemSolving/10_GradingStudents.md)
 - [11_AppleAndOrange.md](HackerRank/ProblemSolving/11_AppleAndOrange.md)
+- [12_Kangaroo.md](HackerRank/ProblemSolving/12_Kangaroo.md)
 
 <br/>
 
