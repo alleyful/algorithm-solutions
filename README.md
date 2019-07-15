@@ -66,20 +66,21 @@
 
 ### [ProblemSolving](HackerRank/ProblemSolving)
 
-- [00_SolveMeFirst](HackerRank/ProblemSolving/00_SolveMeFirst.md)
-- [01_SimpleArraySum](HackerRank/ProblemSolving/01_SimpleArraySum.md)
-- [02_CompareTheTriplets](HackerRank/ProblemSolving/02_CompareTheTriplets.md)
-- [03_AVeryBigSum](HackerRank/ProblemSolving/03_AVeryBigSum.md)
-- [04_DiagonalDifference](HackerRank/ProblemSolving/04_DiagonalDifference.md)
-- [05_PlusMinus](HackerRank/ProblemSolving/05_PlusMinus.md)
+- [00_Solve Me First](HackerRank/ProblemSolving/00_SolveMeFirst.md)
+- [01_Simple Array Sum](HackerRank/ProblemSolving/01_SimpleArraySum.md)
+- [02_Compare The Triplets](HackerRank/ProblemSolving/02_CompareTheTriplets.md)
+- [03_A Very Big Sum](HackerRank/ProblemSolving/03_AVeryBigSum.md)
+- [04_Diagonal Difference](HackerRank/ProblemSolving/04_DiagonalDifference.md)
+- [05_Plus Minus](HackerRank/ProblemSolving/05_PlusMinus.md)
 - [06_Staircase](HackerRank/ProblemSolving/06_Staircase.md)
 - [07_Mini-MaxSum](HackerRank/ProblemSolving/07_Mini-MaxSum.md)
-- [08_BirthdayCakeCandles](HackerRank/ProblemSolving/08_BirthdayCakeCandles.md)
+- [08_Birthday Cake Candles](HackerRank/ProblemSolving/08_BirthdayCakeCandles.md)
 - [09_Time Conversion](HackerRank/ProblemSolving/09_TimeConversion.md)
-- [10_GradingStudents](HackerRank/ProblemSolving/10_GradingStudents.md)
-- [11_AppleAndOrange.md](HackerRank/ProblemSolving/11_AppleAndOrange.md)
-- [12_Kangaroo.md](HackerRank/ProblemSolving/12_Kangaroo.md)
-- [13_BetweenTwoSets.md](HackerRank/ProblemSolving/13_BetweenTwoSets.md)
+- [10_Grading Students](HackerRank/ProblemSolving/10_GradingStudents.md)
+- [11_Apple And Orange](HackerRank/ProblemSolving/11_AppleAndOrange.md)
+- [12_Kangaroo](HackerRank/ProblemSolving/12_Kangaroo.md)
+- [13_Between Two Sets](HackerRank/ProblemSolving/13_BetweenTwoSets.md)
+- [14_Breaking the Records](HackerRank/ProblemSolving/14_BreakingtheRecords.md)
 
 <br/>
 
