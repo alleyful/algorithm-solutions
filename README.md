@@ -81,6 +81,7 @@
 - [12_Kangaroo](HackerRank/ProblemSolving/12_Kangaroo.md)
 - [13_Between Two Sets](HackerRank/ProblemSolving/13_BetweenTwoSets.md)
 - [14_Breaking the Records](HackerRank/ProblemSolving/14_BreakingtheRecords.md)
+- [15_Birthday Chocolate](HackerRank/ProblemSolving/15_BirthdayChocolate.md)
 
 <br/>
 
