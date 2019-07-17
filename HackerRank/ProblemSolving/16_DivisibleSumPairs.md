@@ -31,6 +31,8 @@ The second line contains **n** space-separated integers describing the values of
 - ![](https://latex.codecogs.com/gif.latex?1\leq&space;k\leq&space;100)
 - ![](https://latex.codecogs.com/gif.latex?1\leq&space;a[i]\leq&space;100)
 
+<br/>
+
 ## Output Format
 
 Print the number of (i, j) pairs where i < j and a[i] + a[j] is evenly divisible by **k**.
