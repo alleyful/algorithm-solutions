@@ -83,6 +83,7 @@
 - [14_Breaking the Records](HackerRank/ProblemSolving/14_BreakingtheRecords.md)
 - [15_Birthday Chocolate](HackerRank/ProblemSolving/15_BirthdayChocolate.md)
 - [16_Divisible Sum Pairs](HackerRank/ProblemSolving/16_DivisibleSumPairs.md)
+- [17_Migratory Birds](HackerRank/ProblemSolving/17_MigratoryBirds.md)
 
 <br/>
 
