@@ -84,6 +84,7 @@
 - [15_Birthday Chocolate](HackerRank/ProblemSolving/15_BirthdayChocolate.md)
 - [16_Divisible Sum Pairs](HackerRank/ProblemSolving/16_DivisibleSumPairs.md)
 - [17_Migratory Birds](HackerRank/ProblemSolving/17_MigratoryBirds.md)
+- [18_Day of the Programmer](HackerRank/ProblemSolving/18_DayOfTheProgrammer.md)
 
 <br/>
 
