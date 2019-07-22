@@ -20,7 +20,7 @@ sockMerchant has the following parameter(s):
 
 ## Input Format
 
-The first line contains an integer , the number of socks represented in *ar*. 
+The first line contains an integer **n**, the number of socks represented in *ar*. 
 The second line contains *n* space-separated integers describing the colors *ar[i]* of the socks in the pile.
 
 <br/>
