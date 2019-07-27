@@ -90,6 +90,7 @@
 - [21_DrawingBook.md](HackerRank/ProblemSolving/21_DrawingBook.md)
 - [22_Counting Valleys.md](HackerRank/ProblemSolving/22_CountingValleys.md)
 - [23_Electronics Shop.md](HackerRank/ProblemSolving/23_ElectronicsShop.md)
+- [24_Cats and a Mouse.md](HackerRank/ProblemSolving/24_CatsAndAMouse.md)
 
 <br/>
 
