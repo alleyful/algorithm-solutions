@@ -85,12 +85,13 @@
 - [16_Divisible Sum Pairs](HackerRank/ProblemSolving/16_DivisibleSumPairs.md)
 - [17_Migratory Birds](HackerRank/ProblemSolving/17_MigratoryBirds.md)
 - [18_Day of the Programmer](HackerRank/ProblemSolving/18_DayOfTheProgrammer.md)
-- [19_Bon Appétit.md](HackerRank/ProblemSolving/19_BonAppetit.md)
-- [20_Sock Merchant.md](HackerRank/ProblemSolving/20_SockMerchant.md)
-- [21_DrawingBook.md](HackerRank/ProblemSolving/21_DrawingBook.md)
-- [22_Counting Valleys.md](HackerRank/ProblemSolving/22_CountingValleys.md)
-- [23_Electronics Shop.md](HackerRank/ProblemSolving/23_ElectronicsShop.md)
-- [24_Cats and a Mouse.md](HackerRank/ProblemSolving/24_CatsAndAMouse.md)
+- [19_Bon Appétit](HackerRank/ProblemSolving/19_BonAppetit.md)
+- [20_Sock Merchant](HackerRank/ProblemSolving/20_SockMerchant.md)
+- [21_DrawingBook](HackerRank/ProblemSolving/21_DrawingBook.md)
+- [22_Counting Valleys](HackerRank/ProblemSolving/22_CountingValleys.md)
+- [23_Electronics Shop](HackerRank/ProblemSolving/23_ElectronicsShop.md)
+- [24_Cats and a Mouse](HackerRank/ProblemSolving/24_CatsAndAMouse.md)
+- [25_Forming a Magic Square](HackerRank/ProblemSolving/25_FormingAMagicSquare.md)
 
 <br/>
 
