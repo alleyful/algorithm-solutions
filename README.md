@@ -92,6 +92,7 @@
 - [23_Electronics Shop](HackerRank/ProblemSolving/23_ElectronicsShop.md)
 - [24_Cats and a Mouse](HackerRank/ProblemSolving/24_CatsAndAMouse.md)
 - [25_Forming a Magic Square](HackerRank/ProblemSolving/25_FormingAMagicSquare.md)
+- [26_Picking Numbers](HackerRank/ProblemSolving/26_PickingNumbers.md)
 
 <br/>
 
