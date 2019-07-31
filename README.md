@@ -94,6 +94,7 @@
 - [25_Forming a Magic Square](HackerRank/ProblemSolving/25_FormingAMagicSquare.md)
 - [26_Picking Numbers](HackerRank/ProblemSolving/26_PickingNumbers.md)
 - [27_The Hurdle Race](HackerRank/ProblemSolving/27_TheHurdleRace.md)
+- [28_Designer PDF Viewer](HackerRank/ProblemSolving/28_DesignerPDFViewer.md)
 
 <br/>
 
