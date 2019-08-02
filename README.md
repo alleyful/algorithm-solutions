@@ -95,6 +95,7 @@
 - [26_Picking Numbers](HackerRank/ProblemSolving/26_PickingNumbers.md)
 - [27_The Hurdle Race](HackerRank/ProblemSolving/27_TheHurdleRace.md)
 - [28_Designer PDF Viewer](HackerRank/ProblemSolving/28_DesignerPDFViewer.md)
+- [29_Utopian Tree](HackerRank/ProblemSolving/29_UtopianTree.md)
 
 <br/>
 
