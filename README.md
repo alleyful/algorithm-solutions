@@ -97,6 +97,7 @@
 - [28_Designer PDF Viewer](HackerRank/ProblemSolving/28_DesignerPDFViewer.md)
 - [29_Utopian Tree](HackerRank/ProblemSolving/29_UtopianTree.md)
 - [30_Angry Professor](HackerRank/ProblemSolving/30_AngryProfessor.md)
+- [31_Beautiful Days at the Movies](HackerRank/ProblemSolving/31_BeautifulDaysAtTheMovies.md)
 
 <br/>
 
