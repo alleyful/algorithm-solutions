@@ -98,6 +98,7 @@
 - [29_Utopian Tree](HackerRank/ProblemSolving/29_UtopianTree.md)
 - [30_Angry Professor](HackerRank/ProblemSolving/30_AngryProfessor.md)
 - [31_Beautiful Days at the Movies](HackerRank/ProblemSolving/31_BeautifulDaysAtTheMovies.md)
+- [32_Viral Advertising](HackerRank/ProblemSolving/32_ViralAdvertising.md)
 
 <br/>
 
