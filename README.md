@@ -99,6 +99,7 @@
 - [30_Angry Professor](HackerRank/ProblemSolving/30_AngryProfessor.md)
 - [31_Beautiful Days at the Movies](HackerRank/ProblemSolving/31_BeautifulDaysAtTheMovies.md)
 - [32_Viral Advertising](HackerRank/ProblemSolving/32_ViralAdvertising.md)
+- [33_Save the Prisoner!](HackerRank/ProblemSolving/33_SaveThePrisoner.md)
 
 <br/>
 
