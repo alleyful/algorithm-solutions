@@ -101,6 +101,7 @@
 - [32_Viral Advertising](HackerRank/ProblemSolving/32_ViralAdvertising.md)
 - [33_Save the Prisoner!](HackerRank/ProblemSolving/33_SaveThePrisoner.md)
 - [34_Circular Array Rotation](HackerRank/ProblemSolving/34_CircularArrayRotation.md)
+- [35_Sequence Equation](HackerRank/ProblemSolving/35_SequenceEquation.md)
 
 <br/>
 
