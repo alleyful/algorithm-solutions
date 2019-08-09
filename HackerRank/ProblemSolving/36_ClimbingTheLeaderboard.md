@@ -73,23 +73,23 @@ Print **m** integers. The ![](https://latex.codecogs.com/gif.latex?j^{th}) integ
 
 ## Explanation 1
 
-Alice starts playing with  players already on the leaderboard, which looks like this:
+Alice starts playing with **7** players already on the leaderboard, which looks like this:
 
 ![](./images/leader-board-01.png)
 
-After Alice finishes game , her score is  and her ranking is :
+After Alice finishes game **0**, her score is **5** and her ranking is **6**:
 
 ![](./images/leader-board-02.png)
 
-After Alice finishes game , her score is  and her ranking is :
+After Alice finishes game **1**, her score is **25** and her ranking is **4**:
 
 ![](./images/leader-board-03.png)
 
-After Alice finishes game , her score is  and her ranking is tied with Caroline at :
+After Alice finishes game **2**, her score is **50** and her ranking is tied with Caroline at **2**:
 
 ![](./images/leader-board-04.png)
 
-After Alice finishes game , her score is  and her ranking is :
+After Alice finishes game **3**, her score is **120** and her ranking is **1**:
 
 ![](./images/leader-board-05.png)
 
