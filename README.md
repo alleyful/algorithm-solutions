@@ -104,6 +104,7 @@
 - [35_Sequence Equation](HackerRank/ProblemSolving/35_SequenceEquation.md)
 - [36_Climbing the Leaderboard](HackerRank/ProblemSolving/36_ClimbingTheLeaderboard.md)
 - [37_Jumping on the Clouds: Revisited](HackerRank/ProblemSolving/37_JumpingOnTheClouds.md)
+- [38_Extra Long Factorials](HackerRank/ProblemSolving/38_ExtraLongFactorials.md)
 
 <br/>
 
