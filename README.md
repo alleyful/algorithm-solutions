@@ -106,6 +106,7 @@
 - [37_Jumping on the Clouds: Revisited](HackerRank/ProblemSolving/37_JumpingOnTheClouds.md)
 - [38_Extra Long Factorials](HackerRank/ProblemSolving/38_ExtraLongFactorials.md)
 - [39_Find Digits](HackerRank/ProblemSolving/39_FindDigits.md)
+- [40_Append and Delete](HackerRank/ProblemSolving/40_AppendAndDelete.md)
 
 <br/>
 
