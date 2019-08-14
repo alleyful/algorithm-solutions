@@ -108,6 +108,7 @@
 - [39_Find Digits](HackerRank/ProblemSolving/39_FindDigits.md)
 - [40_Append and Delete](HackerRank/ProblemSolving/40_AppendAndDelete.md)
 - [41_Sherlock and Squares](HackerRank/ProblemSolving/41_SherlockAndSquares.md)
+- [42_Library Fine](HackerRank/ProblemSolving/42_LibraryFine.md)
 
 <br/>
 
