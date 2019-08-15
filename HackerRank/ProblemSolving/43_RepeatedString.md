@@ -30,7 +30,7 @@ The second line contains an integer, **n**.
 ## Constraints
 
 - ![](https://latex.codecogs.com/gif.latex?1\leq&space;|s|\leq&space;100)
-- [](https://latex.codecogs.com/gif.latex?1\leq&space;n\leq&space;10^{12})
+- ![](https://latex.codecogs.com/gif.latex?1\leq&space;n\leq&space;10^{12})
 - For **25%** of the test cases, ![](https://latex.codecogs.com/gif.latex?n&space;\leq&space;10^{6}).
 
 <br/>
