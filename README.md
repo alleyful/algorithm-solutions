@@ -110,6 +110,7 @@
 - [41_Sherlock and Squares](HackerRank/ProblemSolving/41_SherlockAndSquares.md)
 - [42_Library Fine](HackerRank/ProblemSolving/42_LibraryFine.md)
 - [43_Repeated String](HackerRank/ProblemSolving/43_RepeatedString.md)
+- [44_Equalize the Array](HackerRank/ProblemSolving/44_EqualizeTheArray.md)
 
 <br/>
 
