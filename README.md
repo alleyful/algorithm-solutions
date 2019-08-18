@@ -111,6 +111,7 @@
 - [42_Library Fine](HackerRank/ProblemSolving/42_LibraryFine.md)
 - [43_Repeated String](HackerRank/ProblemSolving/43_RepeatedString.md)
 - [44_Equalize the Array](HackerRank/ProblemSolving/44_EqualizeTheArray.md)
+- [45_ACM ICPC Team](HackerRank/ProblemSolving/45_ACM_ICPC_Team.md)
 
 <br/>
 
