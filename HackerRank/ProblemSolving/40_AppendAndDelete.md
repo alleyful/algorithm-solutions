@@ -119,22 +119,22 @@ To convert ashley to ash a minimum of **#** steps are needed. Hence we print `No
 
 ```javascript
 function appendAndDelete(s, t, k) {
-    let sArray = [...s];
-    let tArray = [...t];
-    let isContinue = true;
+  let sArray = [...s];
+  let tArray = [...t];
+  let totalLength = sArray.length + tArray.length;
 
-    let sameString = tArray.reduce((target, string, index) => {
-        (isContinue && string === sArray[index]) 
-        ? target.push(string) 
-        : (isContinue = false);
+  let sameString = tArray.reduce((target, string, index) => {
+    (target['isContinue'] && string === sArray[index]) ? ++target['length'] : (target['isContinue'] = false);
 
-        return target;
-    }, []);
+    return target;
+  }, {length: 0, isContinue: true});
 
-    let result = (sArray.length + tArray.length) - 2 * sameString.length;
-
-    return result + 1 === k
-        ? 'Yes'
-        : (result <= k ? 'Yes' : 'No');
+  let result = totalLength - 2 * sameString['length'];
+  
+  return totalLength <= k
+    ? 'Yes'
+    : k >= result && ((k - result) % 2 === 0)
+      ? 'Yes'
+      : 'No';
 }
 ```
