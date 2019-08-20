@@ -113,6 +113,7 @@
 - [44_Equalize the Array](HackerRank/ProblemSolving/44_EqualizeTheArray.md)
 - [45_ACM ICPC Team](HackerRank/ProblemSolving/45_ACM_ICPC_Team.md)
 - [46_Jumping on the Clouds](HackerRank/ProblemSolving/46_JumpingOnTheClouds.md)
+- [47_Cut the sticks](HackerRank/ProblemSolving/47_CutTheSticks.md)
 
 <br/>
 
