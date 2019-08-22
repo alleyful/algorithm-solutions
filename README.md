@@ -116,6 +116,7 @@
 - [47_Cut the sticks](HackerRank/ProblemSolving/47_CutTheSticks.md)
 - [48_Taum and B'day](HackerRank/ProblemSolving/48_TaumAndBDay.md)
 - [49_Encryption](HackerRank/ProblemSolving/49_Encryption.md)
+- [50_Modified Kaprekar Numbers](HackerRank/ProblemSolving/50_ModifiedKaprekarNumbers.md)
 
 <br/>
 
