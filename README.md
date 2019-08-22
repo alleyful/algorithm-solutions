@@ -115,6 +115,7 @@
 - [46_Jumping on the Clouds](HackerRank/ProblemSolving/46_JumpingOnTheClouds.md)
 - [47_Cut the sticks](HackerRank/ProblemSolving/47_CutTheSticks.md)
 - [48_Taum and B'day](HackerRank/ProblemSolving/48_TaumAndBDay.md)
+- [49_Encryption](HackerRank/ProblemSolving/49_Encryption.md)
 
 <br/>
 
