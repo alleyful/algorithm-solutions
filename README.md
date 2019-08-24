@@ -118,6 +118,7 @@
 - [49_Encryption](HackerRank/ProblemSolving/49_Encryption.md)
 - [50_Modified Kaprekar Numbers](HackerRank/ProblemSolving/50_ModifiedKaprekarNumbers.md)
 - [51_Beautiful Triplets](HackerRank/ProblemSolving/51_BeautifulTriplets.md)
+- [52_Minimum Distances](HackerRank/ProblemSolving/52_MinimumDistances.md)
 
 <br/>
 
