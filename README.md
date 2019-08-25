@@ -119,6 +119,7 @@
 - [50_Modified Kaprekar Numbers](HackerRank/ProblemSolving/50_ModifiedKaprekarNumbers.md)
 - [51_Beautiful Triplets](HackerRank/ProblemSolving/51_BeautifulTriplets.md)
 - [52_Minimum Distances](HackerRank/ProblemSolving/52_MinimumDistances.md)
+- [53_Halloween Sale](HackerRank/ProblemSolving/53_HalloweenSale.md)
 
 <br/>
 
