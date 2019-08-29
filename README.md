@@ -120,6 +120,7 @@
 - [51_Beautiful Triplets](HackerRank/ProblemSolving/51_BeautifulTriplets.md)
 - [52_Minimum Distances](HackerRank/ProblemSolving/52_MinimumDistances.md)
 - [53_Halloween Sale](HackerRank/ProblemSolving/53_HalloweenSale.md)
+- [54_Chocolate Feast](HackerRank/ProblemSolving/54_ChocolateFeast.md)
 
 <br/>
 
