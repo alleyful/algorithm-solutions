@@ -121,6 +121,7 @@
 - [52_Minimum Distances](HackerRank/ProblemSolving/52_MinimumDistances.md)
 - [53_Halloween Sale](HackerRank/ProblemSolving/53_HalloweenSale.md)
 - [54_Chocolate Feast](HackerRank/ProblemSolving/54_ChocolateFeast.md)
+- [55_Service Lane](HackerRank/ProblemSolving/55_ServiceLane.md)
 
 <br/>
 
