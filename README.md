@@ -122,6 +122,7 @@
 - [53_Halloween Sale](HackerRank/ProblemSolving/53_HalloweenSale.md)
 - [54_Chocolate Feast](HackerRank/ProblemSolving/54_ChocolateFeast.md)
 - [55_Service Lane](HackerRank/ProblemSolving/55_ServiceLane.md)
+- [56_Lisa's Workbook](HackerRank/ProblemSolving/56_LisasWorkbook.md)
 
 <br/>
 
