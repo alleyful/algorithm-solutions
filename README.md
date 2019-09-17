@@ -179,3 +179,4 @@
 - [다음 큰 숫자](/Programmers/Level2/다음_큰_숫자.md)
 - [땅따먹기](/Programmers/Level2/땅따먹기.md)
 - [숫자의 표현](/Programmers/Level2/숫자의_표현.md)
+- [최댓값과 최솟값](/Programmers/Level2/최댓값과_최솟값.md)
