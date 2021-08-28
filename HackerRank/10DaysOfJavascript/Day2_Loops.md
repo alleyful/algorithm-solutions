@@ -166,23 +166,24 @@ function vowelsAndConsonants(s) {
 
 ```javascript
 function vowelsAndConsonants(s) {
-    let lettersOrder= [...s].sort();
     let letters = [...s];
-    let size = lettersOrder.length;
+    let size = letters.length;
     
     for(let i= 0; i< size; i++){
-        switch(lettersOrder[i]){
+        
+        switch(letters[i]){
             case 'a':
             case 'e':
             case 'i':
             case 'o':
             case 'u':
-            console.log(lettersOrder[i])
+            console.log(letters[i])
             break
             default:
             break;
         }
     }
+    
     for(let i= 0; i< size; i++){
         switch(letters[i]){
             case 'a':
@@ -200,6 +201,7 @@ function vowelsAndConsonants(s) {
     
     
 }
+
 
 ```
 
