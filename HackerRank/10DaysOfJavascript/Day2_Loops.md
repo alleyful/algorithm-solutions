@@ -161,3 +161,48 @@ function vowelsAndConsonants(s) {
 ```
 
 ---
+
+## Solution4
+
+```javascript
+function vowelsAndConsonants(s) {
+    let letters = [...s];
+    let size = letters.length;
+    
+    for(let i= 0; i< size; i++){
+        
+        switch(letters[i]){
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'o':
+            case 'u':
+            console.log(letters[i])
+            break
+            default:
+            break;
+        }
+    }
+    
+    for(let i= 0; i< size; i++){
+        switch(letters[i]){
+            case 'a':
+            case 'e':
+            case 'i':
+            case 'o':
+            case 'u':
+            break
+            default:
+            console.log(letters[i])
+            break;
+        }
+    }
+     
+    
+    
+}
+
+
+```
+
+---
